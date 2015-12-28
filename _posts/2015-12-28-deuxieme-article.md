@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 
 ## titre
@@ -13,6 +14,3 @@ published: false
 
 
 > Citations
-
-
-
