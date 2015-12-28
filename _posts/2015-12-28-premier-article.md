@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Premier Article
+title: Premier Article de pierre Renault
+published: true
 ---
 
-Contenu
+
+Contenu de ma page
