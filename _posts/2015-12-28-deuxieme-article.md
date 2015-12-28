@@ -13,7 +13,6 @@ published: false
 
 
 > Citations
-![]({{site.baseurl}}/media/image022.jpg)
-![]({{site.baseurl}}/)
+
 
 
