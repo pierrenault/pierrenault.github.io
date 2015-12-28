@@ -1,0 +1,21 @@
+permalink: pretty
+markdown: rdiscount
+prose:
+  rooturl: ''
+  siteurl: 'http://pierrenault.github.io/'
+  relativeLinks: 'http://pierrenault.github.io/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.html
+    - _config.yml
+    - _prose.yml
+    - feed.xml
+    - links.jsonp
+    - LICENSE
+    - CNAME
+    - .gitignore
+    - .htaccess
+    - /_layouts
+    - /_includes
+    - /public
+  
