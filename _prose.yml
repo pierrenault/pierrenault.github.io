@@ -11,7 +11,6 @@ prose:
     - _prose.yml
     - feed.xml
     - links.jsonp
-    - LICENSE
     - CNAME
     - .gitignore
     - .htaccess
