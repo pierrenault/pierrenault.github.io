@@ -6,6 +6,9 @@ published: true
 
 
 
+
+
+
 ## Un concept flou omniprésent chez les acteurs de l’aménagement des territoires
 Elus, habitants, agents des collectivités, professionnels, concepteurs : chacun s’approprie aujourd’hui l’expression. Oui, nous sommes tous légitimes pour évoquer le paysage. Et pour cause – le paysage – « partie de territoire tel que perçue par les populations » est à la portée de tous.
 ** Mais en quoi le concept de « qualité paysagère » sert-il le processus d’aménagement spatial ?** 
