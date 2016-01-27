@@ -156,8 +156,9 @@ code {
   padding: .25em .5em;
   font-size: 85%;
   color: #bf616a;
-  background-color: #f9f9f9;
+  background-color: #fff;
   border-radius: 3px;
+  border: #2ECC40 3px solid;
 }
 pre {
   display: block;
