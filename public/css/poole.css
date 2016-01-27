@@ -164,7 +164,7 @@ pre {
   font-size: .8rem;
   line-height: 1.4;
   white-space: pre;
-  white-space: normal;
+  white-space: pre-wrap;
   word-break: normal;
   word-wrap: normal;
   background-color: #fff;
