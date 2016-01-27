@@ -10,7 +10,8 @@ relative_permalinks: true
 title:            Pierre Renault
 tagline:          ''
 description:      ''
-url:              http://hyde.getpoole.com
+url:              http://pierrenault.github.io/
+baseurl:          http://pierrenault.github.io/
 baseurl:          /
 
 author:
