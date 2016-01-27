@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "«\_QUALITE PAYSAGERE » - ET S'IL Y AVAIT COCHENILLE SOUS BRACTEE ?"
+title: "« QUALITE PAYSAGERE » - ET S'IL Y AVAIT COCHENILLE SOUS BRACTEE ?"
 published: true
 ---
 
