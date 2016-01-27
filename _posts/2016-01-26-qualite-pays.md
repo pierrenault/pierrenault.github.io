@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 ## Un concept flou omniprésent chez les acteurs de l’aménagement des territoires
 Elus, habitants, agents des collectivités, professionnels, concepteurs : chacun s’approprie aujourd’hui l’expression. Oui, nous sommes tous légitimes pour évoquer le paysage. Et pour cause – le paysage – « partie de territoire tel que perçue par les populations » est à la portée de tous.
 ** Mais en quoi le concept de « qualité paysagère » sert-il le processus d’aménagement spatial ?**
@@ -24,7 +25,8 @@ Admettons un instant cette définition, intégrons-la au processus.
 
 ## Notre connaissance du monde a changé : notre perception de l’espace doit suivre 
 L’apport des sciences dans la connaissance du globe et notre dépendance aux ressources naturelles ne cesse de croître. Aussi notre perception de l’espace, qu’il se transforme ou non physiquement, évolue. Indiscutablement, l’aménagement des villes s’inscrit aujourd’hui dans un « développement durable », un développement qui réponde aux besoins du présent sans compromettre les capacités des générations futures à répondre aux leurs. 
-C’est peut être en ce sens qu’il faut chercher un socle commun pour caractériser une « qualité paysagère ». Définie et partagée, les politiques publiques qui en découlent pourraient alors faire sens à l’échelle opérationnelle.
+
+> C’est peut être en ce sens qu’il faut chercher un socle commun pour caractériser une « qualité paysagère ». Définie et partagée, les politiques publiques qui en découlent pourraient alors faire sens à l’échelle opérationnelle.
 
 ## Définir le concept : 10 entrées pour définir une qualité paysagère opérationnelle
 ![]({{site.baseurl}}/media/article-web2-1_strategie.jpg)
