@@ -154,6 +154,7 @@ code {
   color: #bf616a;
   background-color: #fff;
   border-radius: 3px;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 pre {
   display: block;
@@ -162,8 +163,13 @@ pre {
   padding: 1rem;
   font-size: .8rem;
   line-height: 1.4;
+  white-space: pre;
+  white-space: normal;
+  word-break: normal;
+  word-wrap: normal;
   background-color: #fff;
   border: #2ECC40 3px solid;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 pre code {
   padding: 0;
