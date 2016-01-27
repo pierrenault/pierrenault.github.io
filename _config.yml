@@ -12,7 +12,6 @@ tagline:          ''
 description:      ''
 url:              http://pierrenault.github.io/
 baseurl:          http://pierrenault.github.io/
-baseurl:          /
 
 author:
   name:           'Pierre Renault'
