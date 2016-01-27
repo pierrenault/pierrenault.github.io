@@ -13,7 +13,10 @@ Spécialiste de haut niveau au coeur des enjeux environnementaux et des problém
 
 Apte à comprendre et à gérer des systèmes complexes et à modéliser leur fonctionnement et leur
 évolution, il dispose des compétences nécessaires pour :
+
 • analyser et comprendre les dynamiques biophysique et anthropique des territoires, les relations et interactions entre espaces et sociétés
+
 • conduire des projets de paysage originaux : de la conception à l’évaluation en passant par la
 coordination et l’aide à la prise de décision
+
 • concevoir et utiliser des outils, des technologies et des services innovants.
