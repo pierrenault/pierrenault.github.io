@@ -6,6 +6,7 @@ published: true
 
 
 
+
 ## Un concept flou omniprésent chez les acteurs de l’aménagement des territoires
 Elus, habitants, agents des collectivités, professionnels, concepteurs : chacun s’approprie aujourd’hui l’expression. Oui, nous sommes tous légitimes pour évoquer le paysage. Et pour cause – le paysage – « partie de territoire tel que perçue par les populations » est à la portée de tous.
 
@@ -14,12 +15,6 @@ Elus, habitants, agents des collectivités, professionnels, concepteurs : chacun
 ## La tentation de l’esthétisme ou la fausse bonne idée 
 Qu’est-ce que la « qualité paysagère » ? Bien souvent, elle est associée à un espace esthétique, joli, agréable. 
 Admettons un instant cette définition, intégrons-la au processus.
-
-
-
-	Cas 1
-	Qu’est-ce que la « qualité paysagère » ? Bien souvent, elle est associée à un espace esthétique, joli, agréable. 
-	Admettons un instant cette définition, intégrons-la au processus.
 
 ![]({{site.baseurl}}/media/article-web2-1_cas.jpg)
 > Aborder la conception de l’espace par son esthétisme montre ses limites dès lors qu’on attaque la phase opérationnelle. Si la notion de « qualité paysagère » doit guider demain l’aménagement des territoires, il est donc **essentiel de la définir précisément** afin que chaque acteur puisse se reconnaître dans le processus du projet.
