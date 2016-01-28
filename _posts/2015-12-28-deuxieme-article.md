@@ -4,7 +4,26 @@ published: false
 
 
 
-http://www.franceinter.fr/emission-le-79-nicolas-hulot-lenjeu-que-je-porte-est-supra-politique
+L'approche par le frontage – pouquoi ?
+
+#La rue : un espace de vie commun
+
+#Des enjeux variés:
+- usages citoyens : jardinage, détente, rencontres
+- attractivité des commerces
+- continuité écologique
+- qualité de l'air respiré des habitants
+- partage modal : piéton, cycle, voiture
+
+#Aborder le projet par la notion de frontage
+- concept
+- frontage stérile
+- frontage actif
+
+#Les contraintes
+- stationnement vs arbres et parklet
+- éloignement des façades, réseaux et arbres
+- un partage modal réfléchi
 
 ### texte
 
