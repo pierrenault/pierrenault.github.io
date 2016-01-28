@@ -7,10 +7,11 @@ published: true
 
 
 
+
 ## Ici, c'est
 Un croquis de réflexions, qui n'attend que vos gribouillages.
 ## Métier 
-Spécialiste de haut niveau au coeur des enjeux environnementaux et des problématiques d’aménagement, l’ingénieur paysagiste dispose d’une formation pluridisciplinaire, axée sur un développement durable des ressources et des territoires, lui permettant de mobiliser des connaissances dans les domaines des sciences et technologie du vivant, des sciences de l’ingénieur et des sciences économiques, humaines et sociales.
+Spécialiste au coeur des enjeux environnementaux et des problématiques d’aménagement, l’ingénieur paysagiste dispose d’une formation pluridisciplinaire, axée sur un développement durable des ressources et des territoires, lui permettant de mobiliser des connaissances dans les domaines des sciences et technologie du vivant, des sciences de l’ingénieur et des sciences économiques, humaines et sociales.
 
 Apte à comprendre et à gérer des systèmes complexes et à modéliser leur fonctionnement et leur
 évolution, il dispose des compétences nécessaires pour :
