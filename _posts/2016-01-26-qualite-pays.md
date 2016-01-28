@@ -9,6 +9,7 @@ published: true
 
 
 
+
 ## Un concept flou omniprésent chez les acteurs de l’aménagement des territoires
 Elus, habitants, agents des collectivités, professionnels, concepteurs : chacun s’approprie aujourd’hui l’expression. Oui, nous sommes tous légitimes pour évoquer le paysage. Et pour cause – le paysage – « partie de territoire tel que perçue par les populations » est à la portée de tous.
 
@@ -33,3 +34,8 @@ L’apport des sciences dans la connaissance du globe et notre dépendance aux r
 Je tiens le pari : et si d’une « qualité paysagère » définie et partagée naissait un espace esthétique ? 
 
 **Alors plus de souci à se faire…**
+
+> A lire : 
+Le guide de conception écologique d'un espace public paysager réalisé par Plante&Cité en 2014
+[http://www.plante-et-cite.fr/data/fichiers_ressources/pdf_fiches/synthese/2014_10_15_guide_conception_ecologique_BR.pdf](http://www.plante-et-cite.fr/data/fichiers_ressources/pdf_fiches/synthese/2014_10_15_guide_conception_ecologique_BR.pdf "Guide de conception écologique d'un espace public paysager réalisé par Plante&Cité")
+
