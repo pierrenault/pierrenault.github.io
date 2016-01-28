@@ -6,6 +6,7 @@ published: true
 
 
 
+
 ## Ici, c'est
 Un croquis de réflexions, qui n'attend que vos gribouillages.
 ## Métier 
@@ -20,3 +21,5 @@ Apte à comprendre et à gérer des systèmes complexes et à modéliser leur fo
 coordination et l’aide à la prise de décision
 
 • concevoir et utiliser des outils, des technologies et des services innovants.
+## Contact
+pierre.renault73@gmail.com
