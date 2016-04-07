@@ -1,6 +1,6 @@
 ---
 layout: page
-title: en 2 mots
+title: En 2 mots
 published: true
 ---
 
