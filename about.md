@@ -6,6 +6,7 @@ published: true
 
 
 
+
 "_Qu’on ne s’étonne point de l’importance que nous donnons au paysage. Le paysage n’est point la dernière passion d’un peuple entré en vieillesse, c’est la première prise de possession d’une société qui se renouvelle_."
 **Castagnary, 1892**
 
@@ -22,5 +23,6 @@ Apte à comprendre et à gérer des systèmes complexes et à modéliser leur fo
 coordination et l’aide à la prise de décision
 
 • concevoir et utiliser des outils, des technologies et des services innovants.
+
 ## Contact
 pierre.renault73@gmail.com
