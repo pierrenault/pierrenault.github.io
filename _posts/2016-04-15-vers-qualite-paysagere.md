@@ -1,4 +1,5 @@
 ---
+title: Titre de l'article
 published: false
 ---
  
