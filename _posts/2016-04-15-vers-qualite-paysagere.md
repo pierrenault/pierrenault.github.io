@@ -1,5 +1,5 @@
 ---
-title: "Vers une démarche de \"qualité paysagère\" ?"
+title: "Place Dodero à Grenoble : vers une démarche de \"qualité paysagère\" ?"
 published: false
 ---
  
