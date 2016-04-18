@@ -36,5 +36,8 @@ L'enrobé - après analyse HAP / amiante - est recyclé à 2 fins :
 • 130 m3 évacués pour 40 m3 d'apport tous matériaux confondus  
 • Récupération sur site de la moitié de l'enrobé démoli_
 
-## Valoriser les matériaux locaux
-Une clôture bois-métal avec une essence locale non traitée - le mélèze - (Label Bois des Alpes) est créée afin d'assurer la sécurité de l'espace pour les petits.
+## Valoriser matériaux locaux et essences locales
+• Une clôture bois-métal avec une essence locale non traitée - le mélèze - (Label Bois des Alpes) est créée afin d'assurer la sécurité de l'espace pour les petits.  
+• Les espèces végétales locales non horticoles ont été favorisées à 2 titres :  
+- le soucis de la biodiversité ; les essences locales favorisent l'installation d'un écosystème adapté à l'environnement du site
+- l'enjeu pédagogique : faire le lien avec les espaces "de nature" autour de Grenoble, aborder les enjeux de la biodiversité, distinguer plante horticole / indigène, etc.
