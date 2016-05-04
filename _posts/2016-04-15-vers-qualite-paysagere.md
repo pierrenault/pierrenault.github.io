@@ -31,6 +31,7 @@ Aucun système d'arrosage n'est mis en place. Les plantes choisies sont adaptée
 ## Optimiser les matériaux existants afin de limiter l'évacuation et les apports de nouveaux matériaux : 
 ## « faire avec le site »  
 Après analyse HAP / amiante, l'enrobé est recyclé via 2 procédés :  
+
 1/ Mélangé à de la grave, du sable et de la terre, il participe à la constitution d'un mélange drainant et fertile support de "buttes" ludiques et de détente enherbées.
 ![]({{site.baseurl}}/media/buttes_article%20(Copier).jpg)  
 2/ Découpé au lapidaire, son épaisseur (5cm) permet la réalisation de lauzes réutilisées en calepinage sous les bancs intégrés aux surfaces enherbées. 
