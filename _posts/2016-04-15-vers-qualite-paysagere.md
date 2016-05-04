@@ -15,8 +15,8 @@ une place minérale | une aire de jeux | un lieu traversé | un potentiel végé
 **2016**![]({{site.baseurl}}/media/pano_dod2016%20(Copier).jpg)
 
 ## Une place perméable :  
-> Maximiser l'infilitration naturelle des eaux pluviales  
-Diminuer l'îlot de chaleur
+> MAXIMISER L'INFILITRATION NATURELLE DES EAUX PLUVIALES  
+DIMINUER L'ÎLOT DE CHALEUR
 
 Un équilibre a été trouvé entre perméabilité des revêtements, usages et contraintes d'entretien via une gestion différenciée de l'espace :  
 • Les allées sont en stabilisé.  
@@ -44,6 +44,7 @@ Après analyse HAP / amiante, l'enrobé est recyclé via 2 procédés :
 Récupération sur site de la moitié de l'enrobé démoli
 
 ## Valoriser matériaux locaux et essences locales
+> LE LOCAL, UN BON SENS
 • Une clôture bois-métal avec une essence locale non traitée - le mélèze - (Label Bois des Alpes) est créée afin d'assurer la sécurité de l'espace pour les petits.
 ![]({{site.baseurl}}/media/cloture_article%20(Copier).jpg)
 
