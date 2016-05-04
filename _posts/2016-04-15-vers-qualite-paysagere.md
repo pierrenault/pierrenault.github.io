@@ -12,7 +12,8 @@ une place minérale | une aire de jeux | un lieu traversé | un potentiel végé
 • Valoriser les potentiels du site : zone exposée / zone ombragée, platanes centenaires), potentiel de réutilisation des matériaux du site (enrobé, mobilier)  
 • Atténuer l’îlot de chaleur et mieux gérer l’eau par la perméabilité des revêtements
 
-**2016**![]({{site.baseurl}}/media/pano_dod2016%20(Copier).jpg)
+**2016**![2016_article (Copier).jpg]({{site.baseurl}}/media/2016_article (Copier).jpg)
+
 
 ## Une place perméable :  
 > MAXIMISER L'INFILITRATION NATURELLE DES EAUX PLUVIALES  
@@ -51,3 +52,7 @@ Récupération sur site de la moitié de l'enrobé démoli
 • Les espèces végétales locales non horticoles ont été favorisées à 2 titres :  
 1/le souci de la **biodiversité** ; les essences locales favorisent l'installation d'un écosystème adapté à l'environnement du site  
 2/ l'**enjeu pédagogique** : faire le lien avec les espaces "de nature" autour de Grenoble, aborder les enjeux de la biodiversité, distinguer plante horticole / indigène, etc.
+
+--
+
+![]({{site.baseurl}}/media/pano_dod2016%20(Copier).jpg)
