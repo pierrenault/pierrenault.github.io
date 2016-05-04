@@ -22,13 +22,14 @@ Un équilibre a été trouvé entre perméabilité des revêtements, usages et c
 • Les allées sont en stabilisé.  
 • L' espace de jeu "normé" est regroupé avec revêtement optimisé en copeaux de bois valant surface amortissant.  
 • Des espaces de jeux en pelouses rustiques sur les marges sont créés.  
-• Une plate-bande de plantes vivaces locales est créée sur la partie Sud.
+• Une plate-bande de plantes vivaces locales est créée sur la partie Sud.  
 Aucun système d'arrosage n'est mis en place. Les plantes choisies sont adaptées au site supportant des gradients de température importants.
 
 ![]({{site.baseurl}}/media/ambiances_article%20(Copier).jpg)
 
 
-## Optimiser les matériaux existants afin de limiter l'évacuation et les apports de nouveaux matériaux : « faire avec le site »
+## Optimiser les matériaux existants afin de limiter l'évacuation et les apports de nouveaux matériaux : 
+## « faire avec le site »
 L'enrobé - après analyse HAP / amiante - est recyclé à 2 fins :  
 • Mélangé à de la grave, du sable et de la terre, il participe à la constitution d'un mélange drainant et fertile support de "buttes" ludiques et de détente enherbées.
 ![]({{site.baseurl}}/media/buttes_article%20(Copier).jpg)  
