@@ -8,14 +8,15 @@ published: true
 une place minérale | une aire de jeux | un lieu traversé | un potentiel végétal et une exposition plein Sud
 
 ## Enjeux d'une "qualité paysagère" 
-> •Affirmer une mixité des usages sur la place : espace partagé de détente et repos, espace ludique pour petits, activité de jardinage en pieds d'immeubles  
-•Valoriser les potentiels du site : exposition, présence de 3 platanes centenaires, potentiel de réutilisation des matériaux du site (enrobé, mobilier)  
-•Atténuer l’îlot de chaleur et mieux gérer l’eau par la perméabilité des revêtements
+> • Affirmer une mixité des usages sur la place : espace partagé de détente et repos, espace ludique pour petits, activité de jardinage en pieds d'immeubles  
+• Valoriser les potentiels du site : exposition, présence de 3 platanes centenaires, potentiel de réutilisation des matériaux du site (enrobé, mobilier)  
+• Atténuer l’îlot de chaleur et mieux gérer l’eau par la perméabilité des revêtements
 
 **2016**![]({{site.baseurl}}/media/pano_dod2016%20(Copier).jpg)
 
 ## Une place perméable :  
-> > d'infilitration naturelle des eaux pluviales et < d'îlot de chaleur
+> Maximiser l'infilitration naturelle des eaux pluviales
+Diminuer l'îlot de chaleur
 
 Un équilibre a été trouvé entre perméabilité des revêtements, usages et contraintes d'entretien via une gestion différenciée de l'espace :  
 • Les allées sont en stabilisé.  
