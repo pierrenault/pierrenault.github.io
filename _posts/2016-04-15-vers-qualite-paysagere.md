@@ -15,7 +15,7 @@ une place minérale | une aire de jeux | un lieu traversé | un potentiel végé
 **2016**![]({{site.baseurl}}/media/pano_dod2016%20(Copier).jpg)
 
 ## Une place perméable :  
-> Maximiser l'infilitration naturelle des eaux pluviales
+> Maximiser l'infilitration naturelle des eaux pluviales  
 Diminuer l'îlot de chaleur
 
 Un équilibre a été trouvé entre perméabilité des revêtements, usages et contraintes d'entretien via une gestion différenciée de l'espace :  
