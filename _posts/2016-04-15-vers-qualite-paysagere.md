@@ -31,9 +31,9 @@ Aucun système d'arrosage n'est mis en place. Les plantes choisies sont adaptée
 ## Optimiser les matériaux existants afin de limiter l'évacuation et les apports de nouveaux matériaux : 
 ## « faire avec le site »
 L'enrobé - après analyse HAP / amiante - est recyclé à 2 fins :  
-• Mélangé à de la grave, du sable et de la terre, il participe à la constitution d'un mélange drainant et fertile support de "buttes" ludiques et de détente enherbées.
+1/ Mélangé à de la grave, du sable et de la terre, il participe à la constitution d'un mélange drainant et fertile support de "buttes" ludiques et de détente enherbées.
 ![]({{site.baseurl}}/media/buttes_article%20(Copier).jpg)  
-• Découpé au lapidaire, son épaisseur (5cm) permet la réalisation de lauzes réutilisées en calepinage sous les bancs intégrés aux surfaces enherbées. 
+2/ Découpé au lapidaire, son épaisseur (5cm) permet la réalisation de lauzes réutilisées en calepinage sous les bancs intégrés aux surfaces enherbées. 
 ![lauzes_article (Copier).jpg]({{site.baseurl}}/media/lauzes_article (Copier).jpg)
 
 
@@ -46,5 +46,5 @@ Récupération sur site de la moitié de l'enrobé démoli_
 ![]({{site.baseurl}}/media/cloture_article%20(Copier).jpg)
 
 • Les espèces végétales locales non horticoles ont été favorisées à 2 titres :  
-1.le souci de la biodiversité ; les essences locales favorisent l'installation d'un écosystème adapté à l'environnement du site
-2. l'enjeu pédagogique : faire le lien avec les espaces "de nature" autour de Grenoble, aborder les enjeux de la biodiversité, distinguer plante horticole / indigène, etc.
+1/le souci de la biodiversité ; les essences locales favorisent l'installation d'un écosystème adapté à l'environnement du site
+2/ l'enjeu pédagogique : faire le lien avec les espaces "de nature" autour de Grenoble, aborder les enjeux de la biodiversité, distinguer plante horticole / indigène, etc.
