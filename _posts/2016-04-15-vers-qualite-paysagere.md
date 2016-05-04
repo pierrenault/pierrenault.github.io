@@ -1,5 +1,5 @@
 ---
-title: "Place Dodero à Grenoble : une démarche de \"qualité paysagère\" ?"
+title: "PLACE DODERO, GRENOBLE : UNE DEMARCHE DE \"QUALITE PAYSAGERE\" ?"
 published: true
 ---
 **2014**
