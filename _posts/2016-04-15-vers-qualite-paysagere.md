@@ -29,7 +29,7 @@ Aucun système d'arrosage n'est mis en place. Les plantes choisies sont adaptée
 ![]({{site.baseurl}}/media/ambiances_article%20(Copier).jpg)![ambiances_article (Copier).jpg]({{site.baseurl}}/media/ambiances_article (Copier).jpg)
 
 
-## Optimiser les matériaux existants afin de limiter l'évacuation et les apports de nouveaux matériaux : « Faire avec le site »
+## Optimiser les matériaux existants afin de limiter l'évacuation et les apports de nouveaux matériaux : « faire avec le site »
 La terre existante sur l'espace de jardinage créé est déplacée pour la végétalisation de la place afin d'apporter de la terre contrôlée tout en valorisant in-situ la terre existante.  
 L'enrobé - après analyse HAP / amiante - est recyclé à 2 fins :  
 • Mélangé à de la grave, du sable et de la terre, il participe à la constitution d'un mélange drainant et fertile support de "buttes" ludiques et de détente enherbées.
@@ -46,5 +46,5 @@ Récupération sur site de la moitié de l'enrobé démoli_
 ![]({{site.baseurl}}/media/cloture_article%20(Copier).jpg)![cloture_article (Copier).jpg]({{site.baseurl}}/media/cloture_article (Copier).jpg)
 
 • Les espèces végétales locales non horticoles ont été favorisées à 2 titres :  
-- le souci de la biodiversité ; les essences locales favorisent l'installation d'un écosystème adapté à l'environnement du site
-- l'enjeu pédagogique : faire le lien avec les espaces "de nature" autour de Grenoble, aborder les enjeux de la biodiversité, distinguer plante horticole / indigène, etc.
+1.le souci de la biodiversité ; les essences locales favorisent l'installation d'un écosystème adapté à l'environnement du site
+2. l'enjeu pédagogique : faire le lien avec les espaces "de nature" autour de Grenoble, aborder les enjeux de la biodiversité, distinguer plante horticole / indigène, etc.
