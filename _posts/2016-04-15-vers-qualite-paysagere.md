@@ -42,7 +42,7 @@ Après analyse HAP / amiante, l'enrobé est recyclé via 2 procédés :
 
 > **Globalement :**   
 130 m3 évacués pour 40 m3 d'apport tous matériaux confondus  
-Récupération sur site de la moitié de l'enrobé démoli
+1/2 du volume d'enrobé démoli réutilisé in-situ
 
 ## Valoriser matériaux locaux et essences locales
 > LE LOCAL, UN BON SENS  
