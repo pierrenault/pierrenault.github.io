@@ -53,6 +53,5 @@ Récupération sur site de la moitié de l'enrobé démoli
 1/le souci de la **biodiversité** ; les essences locales favorisent l'installation d'un écosystème adapté à l'environnement du site  
 2/ l'**enjeu pédagogique** : faire le lien avec les espaces "de nature" autour de Grenoble, aborder les enjeux de la biodiversité, distinguer plante horticole / indigène, etc.
 
---
 
 ![]({{site.baseurl}}/media/pano_dod2016%20(Copier).jpg)
