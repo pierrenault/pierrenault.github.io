@@ -39,7 +39,7 @@ L'enrobé - après analyse HAP / amiante - est recyclé à 2 fins :
 
 > **Globalement :**   
 130 m3 évacués pour 40 m3 d'apport tous matériaux confondus  
-Récupération sur site de la moitié de l'enrobé démoli_
+Récupération sur site de la moitié de l'enrobé démoli
 
 ## Valoriser matériaux locaux et essences locales
 • Une clôture bois-métal avec une essence locale non traitée - le mélèze - (Label Bois des Alpes) est créée afin d'assurer la sécurité de l'espace pour les petits.
