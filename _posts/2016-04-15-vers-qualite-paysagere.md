@@ -16,7 +16,7 @@ une place minérale | une aire de jeux | un lieu traversé | un potentiel végé
 ![]({{site.baseurl}}/media/pano_dod2016%20(Copier).jpg)
 
 ## Une place perméable :  
-## + d'infilitration naturelle des eaux pluviales et - d'îlot de chaleur
+> + d'infilitration naturelle des eaux pluviales et - d'îlot de chaleur
 Un équilibre a été trouvé entre perméabilité des revêtements, usages et contraintes d'entretien via une gestion différenciée de l'espace :  
 • Les allées sont en stabilisé.  
 • L'espace de jeu "normé" est regroupé avec revêtement optimisé en copeaux de bois valant surface amortissant.  
