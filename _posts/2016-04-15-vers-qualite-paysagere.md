@@ -12,8 +12,7 @@ une place minérale | une aire de jeux | un lieu traversé | un potentiel végé
 > Valoriser les potentiels du site : exposition, présence de 3 platanes centenaires, potentiel de réutilisation des matériaux du site (enrobé, mobilier)  
 > Atténuer l’îlot de chaleur et mieux gérer l’eau par la perméabilité des revêtements
 
-**2016**
-![]({{site.baseurl}}/media/pano_dod2016%20(Copier).jpg)
+**2016**![]({{site.baseurl}}/media/pano_dod2016%20(Copier).jpg)
 
 ## Une place perméable :  
 > + d'infilitration naturelle des eaux pluviales et - d'îlot de chaleur
