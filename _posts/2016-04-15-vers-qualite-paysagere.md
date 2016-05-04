@@ -1,6 +1,6 @@
 ---
 title: "Place Dodero à Grenoble : vers une démarche de \"qualité paysagère\" ?"
-published: false
+published: true
 ---
  
 ## Mars 2015. Réaménagement de la place Dodero à Grenoble, quartier du VO.
