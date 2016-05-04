@@ -3,14 +3,14 @@ title: "Place Dodero à Grenoble : vers une démarche de \"qualité paysagère\"
 published: false
 ---
  
-**Mars 2015. Réaménagement de la place Dodero à Grenoble, quartier du VO.**  
+## Mars 2015. Réaménagement de la place Dodero à Grenoble, quartier du VO.
 
 **2014**
 ![]({{site.baseurl}}/media/pano_dod2014%20(Copier).jpg)![pano_dod2014 (Copier).jpg]({{site.baseurl}}/media/pano_dod2014 (Copier).jpg)
 
 une place minérale | une aire de jeux | un lieu traversé | un potentiel végétal et une exposition plein Sud
 
-**Enjeux d'une "qualité paysagère"**  
+## Enjeux d'une "qualité paysagère" 
 > Affirmer une mixité des usages sur la place : espace partagé de détente et repos, espace ludique pour petits, activité de jardinage en pieds d'immeubles  
 > Valoriser les potentiels du site : exposition, présence de 3 platanes centenaires, potentiel de réutilisation des matériaux du site (enrobé, mobilier)  
 > Atténuer l’îlot de chaleur et mieux gérer l’eau par la perméabilité des revêtements
@@ -36,7 +36,7 @@ L'enrobé - après analyse HAP / amiante - est recyclé à 2 fins :
 • Découpé au lapidaire, son épaisseur (5cm) permet la réalisation de lauzes réutilisées en calepinage sous les bancs intégrés aux surfaces enherbées. 
 ![buttes_article (Copier).jpg]({{site.baseurl}}/media/buttes_article (Copier).jpg)
 
-**_Globalement :**   
+> **Globalement :**   
 • 130 m3 évacués pour 40 m3 d'apport tous matériaux confondus  
 • Récupération sur site de la moitié de l'enrobé démoli_
 
