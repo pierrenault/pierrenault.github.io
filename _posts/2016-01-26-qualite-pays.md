@@ -31,8 +31,7 @@ Je tiens le pari : et si d’une « qualité paysagère » définie et partagée
 **Alors plus de souci à se faire…**
 
 > A lire : 
-Le guide de conception écologique d'un espace public paysager réalisé par Plante&Cité en 2014
-[http://www.plante-et-cite.fr/data/fichiers_ressources/pdf_fiches/synthese/2014_10_15_guide_conception_ecologique_BR.pdf](http://www.plante-et-cite.fr/data/fichiers_ressources/pdf_fiches/synthese/2014_10_15_guide_conception_ecologique_BR.pdf "Guide de conception écologique d'un espace public paysager réalisé par Plante&Cité")
+[Guide de conception écologique d'un espace public paysager réalisé par Plante&Cité (2014)](http://www.plante-et-cite.fr/data/fichiers_ressources/pdf_fiches/synthese/2014_10_15_guide_conception_ecologique_BR.pdf )
 
 > C'est (bien) dit :
 _Le paysage est un outil de développement local à condition qu'il soit ouvert et ne reste pas à sa seule dimension esthétique. Il doit permettre aux acteurs des politiques d'y reconnaître leurs marques, leurs pratiques et leurs objectifs, de manière à pouvoir négocier le changement à travers leurs projets individuels et collectifs._
