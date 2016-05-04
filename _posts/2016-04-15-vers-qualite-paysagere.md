@@ -21,7 +21,7 @@ DIMINUER L'ÎLOT DE CHALEUR
 
 Un équilibre a été trouvé entre perméabilité des revêtements, usages et contraintes d'entretien via une gestion différenciée de l'espace :  
 • Les allées sont en stabilisé.  
-• L' espace de jeu "normé" est regroupé avec revêtement optimisé en copeaux de bois valant surface amortissant.  
+• L' espace de jeu "normé" est regroupé avec revêtement optimisé en copeaux de bois valant surface amortissante.  
 • Des espaces de jeux en pelouses rustiques sur les marges sont créés.  
 • Une plate-bande de plantes vivaces locales est créée sur la partie Sud.  
 Aucun système d'arrosage n'est mis en place. Les plantes choisies sont adaptées au site supportant des gradients de température importants.
