@@ -41,7 +41,7 @@ Récupération sur site de la moitié de l'enrobé démoli_
 
 ## Valoriser matériaux locaux et essences locales
 • Une clôture bois-métal avec une essence locale non traitée - le mélèze - (Label Bois des Alpes) est créée afin d'assurer la sécurité de l'espace pour les petits.
-
+![]({{site.baseurl}}/media/cloture_article%20(Copier).jpg)
 
 • Les espèces végétales locales non horticoles ont été favorisées à 2 titres :  
 1.le souci de la biodiversité ; les essences locales favorisent l'installation d'un écosystème adapté à l'environnement du site
