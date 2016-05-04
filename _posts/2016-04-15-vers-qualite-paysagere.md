@@ -9,7 +9,7 @@ une place minérale | une aire de jeux | un lieu traversé | un potentiel végé
 
 ## Enjeux d'une "qualité paysagère" 
 > • Affirmer une mixité des usages sur la place : espace partagé de détente et repos, espace ludique pour petits, activité de jardinage en pieds d'immeubles  
-• Valoriser les potentiels du site : exposition, présence de 3 platanes centenaires, potentiel de réutilisation des matériaux du site (enrobé, mobilier)  
+• Valoriser les potentiels du site : zone exposée / zone ombragée, platanes centenaires), potentiel de réutilisation des matériaux du site (enrobé, mobilier)  
 • Atténuer l’îlot de chaleur et mieux gérer l’eau par la perméabilité des revêtements
 
 **2016**![]({{site.baseurl}}/media/pano_dod2016%20(Copier).jpg)
