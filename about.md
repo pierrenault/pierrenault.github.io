@@ -1,6 +1,6 @@
 ---
 layout: page
-title: En 2 mots
+title: Paysagiste Concepteur
 published: true
 ---
 
