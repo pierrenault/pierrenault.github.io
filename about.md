@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paysagiste Concepteur
+title: Ingénieur Paysagiste
 published: true
 ---
 
