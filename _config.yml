@@ -8,8 +8,8 @@ permalink:        pretty
 title:            Pierre Renault
 tagline:          'Paysagiste concepteur'
 description:      'Paysagiste concepteur'
-url:              https://pierrenault.github.io/
-baseurl:          https://pierrenault.github.io/
+url:              //pierrenault.github.io/
+baseurl:          //pierrenault.github.io/
 
 author:
   name:           'Pierre Renault'
@@ -21,4 +21,4 @@ paginate:         5
 version:          2.1.0
 
 github:           pierrenault
-  repo:           https://github.com/pierrenault/pierrenault.github.io.git          
+  repo:           pierrenault.github.io.git
