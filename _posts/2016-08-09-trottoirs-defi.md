@@ -35,6 +35,6 @@ Du bon. Et du moins bon. Ô mon beau trottoir, dis-moi qui te (mal)traite ?
 ## Vers une réponse accessible : redéfinir le statut des rues  
 1. Hiérarchiser les rues selon les usages et l'équilibre modal souhaité (voiture, vélo, piétons), partagés par les habitants.   
 2. Définir une typologie de rues selon la sécurité, les usages liés au piéton, à la voiture, au vélo, l'attractivité de la commune, l’embellissement, l'aspect nourricier etc. 
-_Certaines rues n’auraient plus besoin d’axes piétons où un stationnement unilatéral pourrait être installé. D’autres devront au contraire renforcer des continuités piétonnes agréables et sécurisées vers les lieux de vies de la commun_e.
+_Certaines rues n’auraient plus besoin d’axes piétons où un stationnement unilatéral pourrait être installé. D’autres devront au contraire renforcer des continuités piétonnes agréables et sécurisées vers les lieux de vies de la commune._
 
 >Ce travail sous forme d'un Schéma d’usages, réalisé à l'échelle de la commune et partagé par ses habitants, constituerait un cadre commun pour la collectivité et ses citoyens, au sein duquel initiatives individuelles et collectives s'inscriraient intelligemment dans la gestion quotidenne des trottoirs. La collectivité garderait alors toute sa responsabilité d'assurer l’approriation de la démarche par les citoyens dans une gestion respectueuse de l’environnement.
