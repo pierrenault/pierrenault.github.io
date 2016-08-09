@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Villes & villages de campagne\_: trottoirs au défi\_!"
-published: false
+published: true
 ---
 
 A 4 km au Sud-ouest de Caen, la commune de Louvigny, 2769 habitants recensés en 2013, est en relation directe avec la métropole caennaise au cœur de la Normandie.
