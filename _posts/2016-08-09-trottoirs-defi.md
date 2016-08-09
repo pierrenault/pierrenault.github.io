@@ -17,12 +17,12 @@ Pensés pour accueillir 2 véhicules sur la propriété, ces lotissements s'arti
 
 ## La commune se transforme, les modes de vie aussi
 Ouverte en 2002 : une vaste surface commerciale de 2000 m² & sa galerie marchande.
-Sous l'emprise de l'Intermarché, le boulanger, le presse-tabac et la pharmacie du centre-bourg déménagent pour la galerie marchande construite ex-nihilo sur un terrain agricole, excentré du bourg.
+Sous l'emprise de l'Intermarché, le boulanger, le presse-tabac et la pharmacie du centre-bourg déménagent pour la galerie marchande construite ex-nihilo sur un terrain agricole, excentré du bourg. A pied, c'est alors plus loin.
 
 Chez eux, les propriétaires entassent dans le garage : vélos, confitures, bouteilles, vieux ordinateurs : tout y est, et ça prend de la place ! Alors petit à petit l'« abri du véhicule de transport » devint une pièce à part entière.
 
 ## Le garage, l'allée, la rue : de la propriété à l'espace public
-On gare donc la voiture sur l'allée. Madame va au travail, Monsieur aussi, les transports en commun ne sont pas encore assez performants et la culture du vélo en perd. Bref : deux voitures. L'allée est trop petite et une des deux se retrouve alors propulsée hors de la propriété !  
+On gare donc la voiture sur l'allée. Mr & Mme travaillent,les transports en commun ne sont pas encore assez performants, la culture du vélo en perd, celle du piéton aussi. De plus en plus mobiles, de moins en moins souples. Bref : non une, mais deux voitures. L'allée est trop petite et l'une se retrouve alors propulsée hors de la propriété !  
 
 ![ejecte-voiture (Copier).jpg]({{site.baseurl}}/media/ejecte-voiture (Copier).jpg)
 
