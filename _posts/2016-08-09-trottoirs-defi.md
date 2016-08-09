@@ -28,8 +28,7 @@ Les rues confortables ne permettent pas un stationnement à double sens sur voir
 ![dimanche2 (Copier).jpg]({{site.baseurl}}/media/dimanche2 (Copier).jpg)
 
 ## Trottoirs, un héritage à s'approprier
-Comme partout, la collectivité doit faire des économies. Et l'entretien des trottoirs en sablé, ça coûte ! Faire des choix tout en préservant l'environnement : on stoppe l'entretien des trottoirs, plus de produis phytosanitaires, c'est à vous d'entretenir !  
-La collectivité, en se désengagement de leur entretien, aurait-elle fait le pari de l'intelligence individuelle et collective ?  
+Comme partout, la collectivité doit faire des économies. Et l'entretien des trottoirs en sablé, ça coûte ! Faire des choix tout en préservant l'environnement : on stoppe l'entretien des trottoirs, plus de produis phytosanitaires, c'est à vous d'entretenir ! La collectivité, en se désengagement de leur entretien, aurait-elle fait le pari de l'intelligence individuelle et collective ?  
 
 ![beau-moinsbeau (Copier).jpg]({{site.baseurl}}/media/beau-moinsbeau (Copier).jpg)  
 
