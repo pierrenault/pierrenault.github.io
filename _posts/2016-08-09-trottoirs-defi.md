@@ -29,10 +29,13 @@ Les rues confortables ne permettent pas un stationnement à double sens sur voir
 
 ## Trottoirs, un héritage à s'approprier
 Comme partout, la collectivité doit faire des économies. Et l'entretien des trottoirs en sablé, ça coûte ! Faire des choix tout en préservant l'environnement : on stoppe l'entretien des trottoirs, plus de produis phytosanitaires, c'est à vous d'entretenir !  
-Du bon. Et du moins bon. Ô mon beau trottoir, dis-moi qui te (mal)traite ?
-![beau-moinsbeau (Copier).jpg]({{site.baseurl}}/media/beau-moinsbeau (Copier).jpg)
+La collectivité, en se désengagement de leur entretien, aurait-elle fait le pari de l'intelligence individuelle et collective ?  
 
->La collectivité, en se désengagement de leur entretien, aurait-elle fait le pari de l'intelligence individuelle et collective ? Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible.
+![beau-moinsbeau (Copier).jpg]({{site.baseurl}}/media/beau-moinsbeau (Copier).jpg)  
+
+A vous de juger ! Ô mon beau trottoir, dis-moi qui te (mal)traite ?
+
+>Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible.
 
 ## Vers une réponse accessible : redéfinir le statut des rues  
 1. Hiérarchiser les rues selon les usages et l'équilibre modal souhaité (voiture, vélo, piétons), partagés par les habitants.   
