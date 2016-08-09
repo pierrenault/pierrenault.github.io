@@ -35,7 +35,7 @@ Comme partout, la collectivité doit faire des économies. Et l'entretien des tr
 
 ![beau-moinsbeau (Copier).jpg]({{site.baseurl}}/media/beau-moinsbeau (Copier).jpg)  
 
-A vous de juger ! Ô mon beau trottoir, dis-moi qui te (mal)traite ?
+Ô mon beau trottoir, dis-moi qui te (mal)traite ?
 
 >Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible.
 
