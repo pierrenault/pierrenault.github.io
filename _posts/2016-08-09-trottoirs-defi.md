@@ -10,10 +10,10 @@ Depuis les années 1920 puis 1970, le bourg ancien morcelé se développe par st
 
 ## La voiture : son garage, son allée
 Nombre de maisons reprennent le motif suivant : 
-1 garage couvert annexé à la maison, une allée sur la parcelle pour un second véhicule. Les voitures... chez soi et une rue équilibrée avec un partage modal réfléchi !
-Deux larges trottoirs revêtis en sablé sécurisent les trajets piétons pour aller au centre-bourg tout en laissant une place confortable pour la circulation des voitures. Bref, une cohabitation apaisée !
+1 garage couvert annexé à la maison, une allée sur la parcelle pour un second véhicule. 
 ![allee_garage (Copier).jpg]({{site.baseurl}}/media/allee_garage (Copier).jpg)
-
+Les voitures... chez soi et une rue équilibrée avec un partage modal réfléchi !
+Deux larges trottoirs revêtis en sablé sécurisent les trajets piétons pour aller au centre-bourg tout en laissant une place confortable pour la circulation des voitures. Bref, une cohabitation apaisée !
 
 ## L'enfant grandit, le temps passe
 Ouverte en 2002 : une vaste surface commerciale de 2000 m² & sa galerie marchande.
