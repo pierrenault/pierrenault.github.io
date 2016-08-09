@@ -4,13 +4,12 @@ title: 'VILLES & VILLAGES DE CAMPAGNE : TROTTOIRS AU DEFI !'
 published: true
 ---
 
-A 4 km au Sud-ouest de Caen, la commune de Louvigny, 2769 habitants recensés en 2013, est en relation directe avec la métropole caennaise au cœur de la Normandie.
+A 4 km au Sud-ouest de Caen, la commune de Louvigny, 2769 habitants recensés en 2013, fait partie de la métropole caennaise, au cœur de la Normandie.
 
 Depuis les années 1920 puis 1970, le bourg ancien morcelé se développe par strates successives d'urbanisation créant des lotissements juxtaposés. Aujourd'hui, diverses formes urbaines et typologies architecturales composent le paysage communal.
 
 ## La voiture : son garage, son allée
-Nombre de maisons reprennent le motif suivant : 
-1 garage couvert annexé à la maison, une allée sur la parcelle pour un second véhicule. 
+Nombre de maisons se composent d'un garage couvert annexé à la maison et une allée sur la parcelle pour un second véhicule. 
 ![allee_garage (Copier).jpg]({{site.baseurl}}/media/allee_garage (Copier).jpg)
 Les voitures... chez soi et une rue équilibrée avec un partage modal réfléchi !
 Deux larges trottoirs revêtis en sablé sécurisent les trajets piétons pour aller au centre-bourg tout en laissant une place confortable pour la circulation des voitures. Bref, une cohabitation apaisée !
