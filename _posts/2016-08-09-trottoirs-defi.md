@@ -17,11 +17,11 @@ Deux larges trottoirs revêtis en sablé sécurisent les trajets piétons pour a
 
 ## L'enfant grandit, le temps passe
 Ouverte en 2002 : une vaste surface commerciale de 2000 m² & sa galerie marchande.
-Sous l'emprise de l'Intermarché, le boulanger, le presse-tabac, la pharmacie du centre-bourg déménagent pour la galerie marchande excentrée. Et en prime : une jardinerie en face ! Tout va pour le mieux, la croissance est en flèche. En marche !
+Sous l'emprise de l'Intermarché, le boulanger, le presse-tabac et la pharmacie du centre-bourg déménagent pour la galerie marchande excentrée. Et en prime : une jardinerie en face ! Tout va pour le mieux, la croissance est en flèche. En marche !
 
-La collectivité n'a plus beaucoup de sous. Et l'entretien des trottoirs en sablé, ça coûte ! Elle doit faire des choix et il ne faudrait pas abîmer l'environnement. Bref. On stoppe l'entretien des trottoirs, plus de produis phytosanitaires, à vous d'entretenir !
+Comme partout, la collectivité doit faire des économies. Et l'entretien des trottoirs en sablé, ça coûte ! Elle doit faire des choix tout en préservant l'environnement. Bref. On stoppe l'entretien des trottoirs, plus de produis phytosanitaires, c'est à vous d'entretenir !
 
-Chez eux, les propriétaires entassent dans le garage, aux côté de la voiture : les vélos, les confitures, les bouteilles, les vieux ordinateurs, etc. Et ça prend de la place ! Alors petit à petit, celui qui était l'« abri du véhicule de transport » devint une pièce à part entière, et on pousse la voiture dehors.
+Chez eux, les propriétaires entassent dans le garage, au côté de la voiture : vélos, confitures, bouteilles, vieux ordinateurs : tout y est, et ça prend de la place ! Alors petit à petit, celui qui était l'« abri du véhicule de transport » devint une pièce à part entière, et on pousse la voiture dehors.
 
 ## Le garage, l'allée, la rue : de la propriété à l'espace public
 Et s'est ainsi que la voiture prit place sur l'allée. Une voiture ? Non, deux !
