@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Villes & villages de campagne\_: trottoirs au défi\_!"
+title: "VILLES & VILLAGES DE CAMPAGNE : TROTTOIRS AU DEFI !"
 published: true
 ---
 
