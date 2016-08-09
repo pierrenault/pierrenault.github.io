@@ -19,13 +19,10 @@ Deux larges trottoirs revêtis en sablé sécurisent les trajets piétons pour a
 Ouverte en 2002 : une vaste surface commerciale de 2000 m² & sa galerie marchande.
 Sous l'emprise de l'Intermarché, le boulanger, le presse-tabac et la pharmacie du centre-bourg déménagent pour la galerie marchande excentrée. Et en prime : une jardinerie en face ! Tout va pour le mieux, la croissance est en flèche. En marche !
 
-Comme partout, la collectivité doit faire des économies. Et l'entretien des trottoirs en sablé, ça coûte ! Elle doit faire des choix tout en préservant l'environnement. Bref. On stoppe l'entretien des trottoirs, plus de produis phytosanitaires, c'est à vous d'entretenir !
-
-Chez eux, les propriétaires entassent dans le garage, au côté de la voiture : vélos, confitures, bouteilles, vieux ordinateurs : tout y est, et ça prend de la place ! Alors petit à petit, celui qui était l'« abri du véhicule de transport » devint une pièce à part entière, et on pousse la voiture dehors.
+Comme partout, la collectivité doit faire des économies. Et l'entretien des trottoirs en sablé, ça coûte ! Faire des choix tout en préservant l'environnement. Bref. On stoppe l'entretien des trottoirs, plus de produis phytosanitaires, c'est à vous d'entretenir !
 
 ## Le garage, l'allée, la rue : de la propriété à l'espace public
-Et s'est ainsi que la voiture prit place sur l'allée. Une voiture ? Non, deux !
-Madame va au travail, Monsieur aussi, les transports en commun ne sont pas encore assez performants et la culture du vélo en perd. Bref. Deux voitures. Et c'est ainsi qu'une voiture s’éjecte de la propriété !
+Chez eux, les propriétaires entassent dans le garage, au côté de la voiture : vélos, confitures, bouteilles, vieux ordinateurs : tout y est, et ça prend de la place ! Alors petit à petit, celui qui était l'« abri du véhicule de transport » devint une pièce à part entière, et on gare la voiture sur l'allée. Mais Madame va au travail, Monsieur aussi, les transports en commun ne sont pas encore assez performants et la culture du vélo en perd. Bref. Pas une, mais deux voitures ! Et Hop ! C'est ainsi qu'on éjecte une des deux voitures de la propriété !
 ![ejecte-voiture (Copier).jpg]({{site.baseurl}}/media/ejecte-voiture (Copier).jpg)
 
 Les rues confortables ne permettent pas cependant un stationnement à double sens sur voirie. Alors on empiète sur le trottoir. L'équilibre modal prévu 30 ans plus tôt prend du plomb dans l'aile. Comme dit l'autre « plus de commerce de proximité, y a l'intermarché ! On va quand même pas y aller à pied ! ».
