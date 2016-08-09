@@ -42,12 +42,12 @@ Du bon. Et du moins bon. Ô mon beau trottoir, dis-moi qui te (mal)traite ?
 La collectivité, en se désengagement de leur entretien, aurait-elle fait le pari de l'intelligence individuelle et collective ?
 
 >## Réflexion ouverte
-Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? **Réflexion et créativité pour une réponse frugale accessible**.
+Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible.
 
 ## Redéfinir le statut des rues  
-Un **schéma directeur d’usages** de la rue pourrait être réalisé.  
-• Organisé de manière à hiérarchiser les rues, il créerait une **typologie de rues suivant les usages** actuels et futurs partagés par les habitants.  
+Un schéma directeur d’usages de la rue pourrait être réalisé.  
+• Organisé de manière à hiérarchiser les rues, il créerait une typologie de rues suivant les usages actuels et futurs partagés par les habitants.  
 
-• Cette typologie prendrait en compte la **sécurité**, les **usages liés au piéton**, à la **voiture**, au **vélo**, l'**attractivité** de la commune, l’**embellissement**, etc. A chaque typologie répondrait un équilibre modal partagé. Certaines rues n’auraient plus besoin d’axes piétons où un stationnement unilatéral pourrait être installé. D’autres devront au contraire renforcer des continuités piétonnes agréables et sécurisées vers les lieux de vies de la commune.
+• Cette typologie prendrait en compte la sécurité, les usages liés au piéton, à la voiture, au vélo, l'attractivité de la commune, l’embellissement, etc. A chaque typologie répondrait un équilibre modal partagé. Certaines rues n’auraient plus besoin d’axes piétons où un stationnement unilatéral pourrait être installé. D’autres devront au contraire renforcer des continuités piétonnes agréables et sécurisées vers les lieux de vies de la commune.
 
 >Le Schéma d’usages ainsi créé à l’échelle de la commune, partagé par les habitants, constituerait un **cadre commun pour la collectivité et ses citoyens**, dans lequel initiatives individuelles et collectives s’inscrireraient avec pertinence pour sa **gestion**. La collectivité assumerait toute sa responsabilité en **accompagnant l’approriation de la démarche** par l'ensemble des acteurs. Une gestion des trottoirs respectueuse de l’environnement passerait par une pédagogie active portée par la collectivité (alternative aux produits phytosantiaires, distribution de semences, etc.).
