@@ -4,12 +4,13 @@ title: "Villes & villages de campagne\_: trottoirs au défi\_!"
 published: false
 ---
 
-A 4 Km au Sud-ouest de Caen, la commune de Louvigny, 2769 habitants recensés en 2013 est en relation directe avec la métropole caennaise au cœur de la Normandie.
+A 4 km au Sud-ouest de Caen, la commune de Louvigny, 2769 habitants recensés en 2013, est en relation directe avec la métropole caennaise au cœur de la Normandie.
 
 Depuis les années 1920 puis 1970, le bourg ancien morcelé se développe par strates successives d'urbanisation créant des lotissements juxtaposés. Aujourd'hui, diverses formes urbaines et typologies architecturales composent le paysage communal.
 
 ## La voiture : son garage, son allée
 Nombre de maisons reprennent le motif suivant : 1 garage couvert annexé à la maison, une allée sur la parcelle pour un second véhicule. La voiture… à la parcelle ! Une rue équilibrée avec un partage modal réfléchi ! Deux larges trottoirs revêtis en sablé, sécurisants les trajets piétons pour aller au centre-bourg, et une place confortable pour la circulation des voitures. Bref, une cohabitation sécurisée !
+![allee_garage (Copier).jpg]({{site.baseurl}}/media/allee_garage (Copier).jpg)
 
 
 ## L'enfant grandit, le temps passe
@@ -21,15 +22,23 @@ La collectivité n'a plus beaucoup de sous. Et l'entretien des trottoirs en sabl
 Chez eux, les propriétaires entassent dans le garage, aux côté de la voiture : les vélos, les confitures, les bouteilles, les vieux ordinateurs, etc. Et ça prend de la place ! Alors petit à petit, celui qui était l'« abri du véhicule de transport » devint une pièce à part entière, et on pousse la voiture dehors.
 
 ## Le garage, l'allée, la rue : de la propriété à l'espace public
-Et s'est ainsi que la voiture pris place sur l'allée. Une voiture ? Mais non, deux !
-Madame va au travail, Monsieur aussi, les transports en commun ne sont pas encore assez performants, et la culture du vélo en perd. Bref. Deux voitures. Et c'est ainsi qu'une voiture s’éjecte de la propriété !
+Et s'est ainsi que la voiture prit place sur l'allée. Une voiture ? Non, deux !
+Madame va au travail, Monsieur aussi, les transports en commun ne sont pas encore assez performants et la culture du vélo en perd. Bref. Deux voitures. Et c'est ainsi qu'une voiture s’éjecte de la propriété !
+![ejecte-voiture (Copier).jpg]({{site.baseurl}}/media/ejecte-voiture (Copier).jpg)
+
 Les rues confortables ne permettent pas cependant un stationnement à double sens sur voirie. Alors on empiète sur le trottoir. L'équilibre modal prévu 30 ans plus tôt prend du plomb dans l'aile. Comme dit l'autre « plus de commerce de proximité, y a l'intermarché ! On va quand même pas y aller à pied ! ».
 A l'heure d'une mobilité croissante, les muscles s'affaiblissent, l'arthrose prend le dessus.
 
 ## Oui mais il y a dimanche.
-Et dimanche, on mange bien et on digère. Bref, y a la balade, pour aller voir le canal et voir les coins-coins avec le neveu. Alors on sort… à pied ! Et là : ce n'est vraiment pas pratique. Alors on observe les trottoirs. 
+Et dimanche, on mange bien et on digère. Bref, y a la balade, pour aller voir le canal et voir les coins-coins avec le neveu. Alors on sort… à pied ! Et là : ce n'est vraiment pas pratique. 
+![dimanche (Copier).jpg]({{site.baseurl}}/media/dimanche (Copier).jpg)
+
+Alors on observe les trottoirs. 
 Du bon.
 Et du moins bon. Ô mon beau trottoir, dis-moi qui te (mal)traite ?
+![beau-moinsbeau (Copier).jpg]({{site.baseurl}}/media/beau-moinsbeau (Copier).jpg)
+
+
 La collectivité, en se désengagement de leur entretien, aurait-elle fait le pari de l'intelligence individuelle et collective ?
 
 ## Réflexion ouverte
