@@ -24,21 +24,20 @@ Comme partout, la collectivité doit faire des économies. Et l'entretien des tr
 Chez eux, les propriétaires entassent dans le garage, au côté de la voiture : vélos, confitures, bouteilles, vieux ordinateurs : tout y est, et ça prend de la place ! Alors petit à petit, celui qui était l'« abri du véhicule de transport » devint une pièce à part entière...
 
 ## Le garage, l'allée, la rue : de la propriété à l'espace public
-... Et on gare la voiture sur l'allée. Mais Madame va au travail, Monsieur aussi, les transports en commun ne sont pas encore assez performants et la culture du vélo en perd. Bref. Pas une, mais deux voitures ! Et Hop ! C'est ainsi qu'on éjecte une des deux voitures de la propriété !
+... Et on gare la voiture sur l'allée. Mais Madame va au travail, Monsieur aussi, les transports en commun ne sont pas encore assez performants et la culture du vélo en perd. Bref. Pas une, mais deux voitures ! Et Hop ! C'est ainsi qu'on éjecte une des deux voitures de la propriété !  
+
 ![ejecte-voiture (Copier).jpg]({{site.baseurl}}/media/ejecte-voiture (Copier).jpg)
 
 Les rues confortables ne permettent pas cependant un stationnement à double sens sur voirie. Alors on empiète sur le trottoir. L'équilibre modal prévu 30 ans plus tôt prend du plomb dans l'aile. Comme dit l'autre « plus de commerce de proximité, y a l'intermarché ! On va quand même pas y aller à pied ! ».
 A l'heure d'une mobilité croissante, les muscles s'affaiblissent, l'arthrose prend le dessus.
 
 ## Oui mais il y a dimanche.
-Et dimanche, on mange bien et on digère. Bref, y a la balade, pour aller voir le canal et voir les coins-coins avec le neveu. Alors on sort… à pied ! Et là : ce n'est vraiment pas pratique. 
+Et dimanche, on mange bien et on digère. Bref, y a la balade, pour aller voir le canal et les coins-coins avec le neveu. Alors on sort… à pied ! Et là : ce n'est vraiment pas pratique et presque dangereux.
 ![dimanche (Copier).jpg]({{site.baseurl}}/media/dimanche (Copier).jpg)
 
-Alors on observe les trottoirs. 
-Du bon.
-Et du moins bon. Ô mon beau trottoir, dis-moi qui te (mal)traite ?
+Et puis on observe les trottoirs.
+Du bon. Et du moins bon. Ô mon beau trottoir, dis-moi qui te (mal)traite ?
 ![beau-moinsbeau (Copier).jpg]({{site.baseurl}}/media/beau-moinsbeau (Copier).jpg)
-
 
 La collectivité, en se désengagement de leur entretien, aurait-elle fait le pari de l'intelligence individuelle et collective ?
 
