@@ -37,10 +37,10 @@ A vous de juger ! Ô mon beau trottoir, dis-moi qui te (mal)traite ?
 >Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible.
 
 ## Vers une réponse accessible : redéfinir le statut des rues  
-1. Hiérarchiser les rues selon les usages et l'équilibre modal souhaité (voiture, vélo, piétons), partagés par les habitants.   
-2. Définir une typologie de rues selon la sécurité, les usages liés au piéton, à la voiture, au vélo, l'attractivité de la commune, l’embellissement, l'aspect nourricier etc.  
+1. Hiérarchiser les rues selon les usages et l'équilibre modal souhaité (voiture, vélo, piétons)   
+2. Définir une typologie de rues selon la sécurité, les usages de flux (piéton,vélo, voiture) mais aussi d'autres usages : l'attractivité de la commune, l’embellissement, le jardinage collectif, etc.  
 
 _Certaines rues n’auraient plus besoin d’axes piétons où un stationnement unilatéral pourrait être installé. D’autres devront au contraire renforcer des continuités piétonnes agréables et sécurisées vers les lieux de vies de la commune._
 
 ___________
->Ce travail sous forme d'un Schéma d’usages, réalisé à l'échelle de la commune et partagé par ses habitants, constituerait un cadre commun pour la collectivité et ses citoyens, au sein duquel initiatives individuelles et collectives s'inscriraient intelligemment dans la gestion quotidenne des trottoirs. La collectivité garderait alors toute sa responsabilité d'assurer l’approriation de la démarche par les citoyens dans une gestion respectueuse de l’environnement.
+>Ce travail sous forme d'un Schéma d’usages de la rue, réalisé à l'échelle de la commune et partagé par ses habitants, constituerait un cadre commun pour la collectivité et ses citoyens, au sein duquel initiatives individuelles et collectives s'inscriraient intelligemment dans la gestion quotidenne des trottoirs. La collectivité garderait alors toute sa responsabilité d'assurer l’approriation de la démarche par les citoyens dans une gestion respectueuse de l’environnement.
