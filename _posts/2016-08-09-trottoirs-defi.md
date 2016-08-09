@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VILLES & VILLAGES DE CAMPAGNE : TROTTOIRS AU DEFI !"
+title: 'VILLES & VILLAGES DE CAMPAGNE : TROTTOIRS AU DEFI !'
 published: true
 ---
 
@@ -33,7 +33,8 @@ A l'heure d'une mobilité croissante, les muscles s'affaiblissent, l'arthrose pr
 
 ## Oui mais il y a dimanche.
 Et dimanche, on mange bien et on digère. Bref, y a la balade, pour aller voir le canal et les coins-coins avec le neveu. Alors on sort… à pied ! Et là : ce n'est vraiment pas pratique et presque dangereux.
-![dimanche (Copier).jpg]({{site.baseurl}}/media/dimanche (Copier).jpg)
+![dimanche2 (Copier).jpg]({{site.baseurl}}/media/dimanche2 (Copier).jpg)
+
 
 Et puis on observe les trottoirs.
 Du bon. Et du moins bon. Ô mon beau trottoir, dis-moi qui te (mal)traite ?
