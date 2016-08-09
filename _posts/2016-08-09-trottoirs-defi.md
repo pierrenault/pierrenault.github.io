@@ -31,10 +31,9 @@ On gare donc la voiture sur l'allée. Madame va au travail, Monsieur aussi, les 
 
 Les rues confortables ne permettent pas un stationnement à double sens sur voirie. Alors on empiète sur le trottoir. L'équilibre modal prévu 30 ans plus tôt prend du plomb dans l'aile.
 
-## Oui mais il y a dimanche.
-Et dimanche, on mange bien et on digère. Bref, y a la balade, pour aller voir le canal et les coins-coins avec le neveu. Alors on sort… à pied ! Et là : ce n'est vraiment pas pratique et presque dangereux.
+Et dimanche, on mange bien et on digère. Bref, y a la balade, pour aller voir le canal et les coins-coins avec le neveu. Alors on sort, à pied. 
+Et là : ce n'est vraiment pas pratique et presque dangereux.
 ![dimanche2 (Copier).jpg]({{site.baseurl}}/media/dimanche2 (Copier).jpg)
-
 
 Et puis on observe les trottoirs.
 Du bon. Et du moins bon. Ô mon beau trottoir, dis-moi qui te (mal)traite ?
