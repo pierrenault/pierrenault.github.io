@@ -46,7 +46,7 @@ La collectivité, en se désengagement de leur entretien, aurait-elle fait le pa
 ## Réflexion ouverte
 Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible.
 
-> Redéfinir le statut des rues
+> **Redéfinir le statut des rues**  
 Un schéma directeur d’usages de la rue pourrait être réalisé. 
 • Organisé de manière à hiérarchiser les rues, il créerait une typologie de rues suivant les usages actuels et futurs partagés par les habitants.  
 •  Cette typologie prendrait en compte la sécurité, les usages liés au piéton, à la voiture, au vélo, l'attractivité de la commune, l’embellissement de la ville, etc. A chaque typologie répondrait un équilibre modal partagé entre la place de la voiture, du vélo (?) et des piétons. Certaines rues n’auraient plus besoin d’axes piétons où un stationnement unilatéral pourrait être installé. D’autres devront au contraire assurer des continuités piétonnes agréables et sécurisées pour accueillir des flux importants vers les lieux de vies encore existants du centre-bourg et les plus récentes infrastructures commerciales.  
