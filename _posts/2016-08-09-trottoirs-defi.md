@@ -23,7 +23,8 @@ On gare donc la voiture sur l'allée. Madame va au travail, Monsieur aussi, les 
 
 ![ejecte-voiture (Copier).jpg]({{site.baseurl}}/media/ejecte-voiture (Copier).jpg)
 
-Les rues confortables ne permettent pas un stationnement à double sens sur voirie. Alors on empiète sur le trottoir. L'équilibre modal prévu 30 ans plus tôt prend du plomb dans l'aile, remettant en cause la sécurité et la fonctionnalité même des cheminements piétons.
+Les rues confortables ne permettent pas un stationnement à double sens sur voirie. Alors on empiète sur le trottoir. L'équilibre modal prévu 30 ans plus tôt prend du plomb dans l'aile, remettant en cause la sécurité et la fonctionnalité même des cheminements piétons.  
+
 ![dimanche2 (Copier).jpg]({{site.baseurl}}/media/dimanche2 (Copier).jpg)
 
 ## Trottoirs, un héritage à s'approprier
