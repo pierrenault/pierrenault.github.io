@@ -44,7 +44,7 @@ Et du moins bon. Ô mon beau trottoir, dis-moi qui te (mal)traite ?
 La collectivité, en se désengagement de leur entretien, aurait-elle fait le pari de l'intelligence individuelle et collective ?
 
 ## Réflexion ouverte
-Les difficultés financières des collectivités ne nous forcent ni au renoncement ni au désengagement des responsabilités de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible.
+Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible.
 
 > Redéfinir le statut des rues
 Un schéma directeur d’usages de la rue pourrait être réalisé. 
