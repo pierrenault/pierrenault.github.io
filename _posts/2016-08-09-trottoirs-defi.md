@@ -10,7 +10,10 @@ Au coeur de la Normandie, à 4 km au Sud-ouest de Caen, la commune de Louvigny c
 Dans de nombreux lotissements, les maisons comportent un garage couvert annexé au bâti et une allée.  
 
 ![allee_garage (Copier)2.jpg]({{site.baseurl}}/media/allee_garage (Copier)2.jpg)
-Pensés pour accueillir 2 véhicules sur la propriété, ces lotissements s'articulent autour de rues équilibrées au partage modal réfléchi. Deux larges trottoirs revêtis en sablé sécurisent les trajets piétons tout en laissant une place confortable pour la circulation des voitures. Bref. Une cohabitation apaisée !
+Pensés pour accueillir 2 véhicules sur la propriété, ces lotissements s'articulent autour de rues équilibrées au partage modal réfléchi. Deux larges trottoirs revêtis en sablé sécurisent les trajets piétons tout en laissant une place confortable pour la circulation des voitures. Bref. Une cohabitation apaisée !  
+
+![1 (Copier).jpg]({{site.baseurl}}/media/1 (Copier).jpg)
+
 
 ## La commune se transforme, les modes de vie aussi
 Ouverte en 2002 : une vaste surface commerciale de 2000 m² & sa galerie marchande.
@@ -43,3 +46,5 @@ _Certaines rues n’auraient plus besoin d’axes piétons où un stationnement 
 
 ___________
 >Ce travail sous forme d'un Schéma d’usages de la rue, réalisé à l'échelle de la commune et partagé par ses habitants, constituerait un cadre commun pour la collectivité et ses citoyens, au sein duquel initiatives individuelles et collectives s'inscriraient intelligemment dans la gestion quotidenne des trottoirs. La collectivité garderait alors toute sa responsabilité d'assurer l’approriation de la démarche par les citoyens dans une gestion respectueuse de l’environnement.
+
+![persil (Copier).jpg]({{site.baseurl}}/media/persil (Copier).jpg)
