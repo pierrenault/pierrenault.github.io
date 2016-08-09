@@ -22,7 +22,7 @@ Sous l'emprise de l'Intermarché, le boulanger, le presse-tabac et la pharmacie 
 Chez eux, les propriétaires entassent dans le garage : vélos, confitures, bouteilles, vieux ordinateurs : tout y est, et ça prend de la place ! Alors petit à petit l'« abri du véhicule de transport » devint une pièce à part entière.
 
 ## Le garage, l'allée, la rue : de la propriété à l'espace public
-On gare donc la voiture sur l'allée. Mr & Mme travaillent,les transports en commun ne sont pas encore assez performants, la culture du vélo en perd, celle du piéton aussi. De plus en plus mobiles, de moins en moins souples. Bref : non une, mais deux voitures. L'allée est trop petite et l'une se retrouve alors propulsée hors de la propriété !  
+On gare donc la voiture sur l'allée. Mr & Mme travaillent, les transports en commun ne sont pas encore assez performants, la culture du vélo en perd, celle du piéton aussi. De plus en plus mobiles, de moins en moins souples. Bref : non une, mais deux voitures. L'allée est trop petite et l'une se retrouve alors propulsée hors de la propriété !  
 
 ![ejecte-voiture (Copier).jpg]({{site.baseurl}}/media/ejecte-voiture (Copier).jpg)
 
@@ -40,7 +40,7 @@ A vous de juger ! Ô mon beau trottoir, dis-moi qui te (mal)traite ?
 >Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible.
 
 ## Vers une réponse accessible : redéfinir le statut des rues  
-Les rues pourraient être hiérarchisées selon l'équilibre modal souhaité à l'avenir (voiture, vélo, piétons). Une typologie de rues liée à leur gestion, définies au regard d'usages plus larges - attractivité de la commune, jardinage collectif, etc. - pourrait alors être précisée. 
+Les rues pourraient être hiérarchisées selon l'équilibre modal souhaité à l'avenir (voiture, vélo, piéton). Une typologie de rues liée à leur gestion et définie au regard d'usages plus larges - attractivité de la commune, jardinage collectif, etc. - pourrait alors être précisée. 
 
 _Certaines rues n’auraient plus besoin d’axes piétons où un stationnement unilatéral pourrait être installé. D’autres devront au contraire renforcer des continuités piétonnes agréables et sécurisées vers les lieux de vies de la commune._
 
