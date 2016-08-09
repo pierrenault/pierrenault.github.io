@@ -37,8 +37,7 @@ A vous de juger ! Ô mon beau trottoir, dis-moi qui te (mal)traite ?
 >Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible.
 
 ## Vers une réponse accessible : redéfinir le statut des rues  
-1. Hiérarchiser les rues selon les usages et l'équilibre modal souhaité (voiture, vélo, piétons)   
-2. Définir une typologie de rues selon la sécurité, les usages de flux (piéton,vélo, voiture) mais aussi d'autres usages : l'attractivité de la commune, l’embellissement, le jardinage collectif, etc.  
+Les rues pourraient être hiérarchisées selon l'équilibre modal souhaité à l'avenir (voiture, vélo, piétons). Une typologie de rues liée à leur gestion, définies au regard d'usages plus larges - attractivité de la commune, jardinage collectif, etc. - pourrait alors être précisée. 
 
 _Certaines rues n’auraient plus besoin d’axes piétons où un stationnement unilatéral pourrait être installé. D’autres devront au contraire renforcer des continuités piétonnes agréables et sécurisées vers les lieux de vies de la commune._
 
