@@ -37,7 +37,7 @@ Comme partout, la collectivité doit faire des économies. Et l'entretien des tr
 
 Ô mon beau trottoir, dis-moi qui te (mal)traite ?
 
->Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible.
+>Les difficultés financières des collectivités ne les forcent ni au renoncement ni au désengagement de leurs responsabilités. Qu'elles soient en revanche l'obstacle qui créé le moyen, un levier pour parfaire l'équilibre du développement communal. Comment ? Réflexion et créativité pour une réponse frugale accessible, quitte à redéfinir son périmètre d'action.
 
 ## Vers une réponse accessible : redéfinir le statut des rues  
 Les rues pourraient être hiérarchisées selon l'équilibre modal souhaité à l'avenir (voiture, vélo, piéton). Une typologie de rues liée à leur gestion et définie au regard d'usages plus larges - attractivité de la commune, jardinage collectif, etc. - pourrait alors être précisée. 
