@@ -45,6 +45,6 @@ Les rues pourraient être hiérarchisées selon l'équilibre modal souhaité à 
 _Certaines rues n’auraient plus besoin d’axes piétons où un stationnement unilatéral pourrait être installé. D’autres devront au contraire renforcer des continuités piétonnes agréables et sécurisées vers les lieux de vies de la commune._
 
 ___________
-Ce travail sous forme d'un Schéma d’usages de la rue, réalisé à l'échelle de la commune et partagé par ses habitants, constituerait un cadre commun pour la collectivité et ses citoyens, au sein duquel initiatives individuelles et collectives s'inscriraient intelligemment dans la gestion quotidenne des trottoirs. La collectivité garderait alors toute sa responsabilité d'assurer l’approriation de la démarche par les citoyens dans une gestion respectueuse de l’environnement.
+Ce travail sous forme d'un Schéma d’usages de la rue, réalisé à l'échelle de la commune et partagé par ses habitants, constituerait un cadre commun pour la collectivité et ses citoyens, au sein duquel initiatives individuelles et collectives s'inscriraient intelligemment dans la gestion quotidenne des trottoirs. La collectivité garderait alors toute sa responsabilité d'assurer l’appropriation de la démarche par les citoyens dans une gestion respectueuse de l’environnement.
 
 ![persil (Copier).jpg]({{site.baseurl}}/media/persil (Copier).jpg)
