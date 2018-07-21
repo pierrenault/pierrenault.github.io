@@ -28,10 +28,9 @@ ___________________________
 ___________________________  
 Depuis 2016 : Co-porteur du projet **[HopDurable](https://www.hopdurable.fr)**  
 Territoire Pilote : [Auvergne-Rhône-Alpes] (https://www.auvergnerhonealpes.fr/8-des-cartes.htm)  
-Par une réponse de territoire originale avec l'ensemble des parties prenantes,
-HopDurable vise à permettre à chacun d'aménager avec les filières locales ses espaces extérieurs.  
+**Par une réponse de territoire originale avec l'ensemble des parties prenantes, HopDurable vise à permettre à chacun d'aménager avec les filières locales ses espaces extérieurs.**  
 Sélectionné et accompagné par [Alter'Incub](http://www.alterincub.coop/), incubateur d'innocation sociale  
 Membre du [MOUVES](http://mouves.org/) depuis 2018  
-S'abonner à la newsletter du projet Hop > [ici](https://www.hopdurable.fr/#hopletter)  
-Suivre Hop sur Facebook : [là](https://www.facebook.com/hopdurable/)
+Recevoir la HopLetter : [ici](https://www.hopdurable.fr/#hopletter)  
+Suivre l'aventure Hop sur Facebook : [là](https://www.facebook.com/hopdurable/)
 
