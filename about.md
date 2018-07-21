@@ -29,4 +29,4 @@ ___________________________
 Depuis 2016 : Co-porteur du projet HopDurable.
 Territoire Pilote : Auvergne-Rhône-Alpes
 Start-Up d'innovation sociale, HopDurable vise à permettre à chacun d'amanéger avec les filières locales ses espaces extérieurs.
-**+ d'infos : [HopDurable.fr)](https://www.hopdurable.fr)
+**[HopDurable.fr)](https://www.hopdurable.fr)**
