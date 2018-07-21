@@ -20,6 +20,7 @@ coordination et l’aide à la prise de décision
 ### Contact
 pierre.renault73@gmail.com
 ___________________________  
+
 Depuis 2016 : Co-porteur du projet **[HopDurable](https://www.hopdurable.fr)**  
 Territoire Pilote : [Auvergne-Rhône-Alpes](https://www.auvergnerhonealpes.fr/8-des-cartes.htm)  
 _Par une réponse de territoire originale avec l'ensemble des parties prenantes, HopDurable vise à permettre à chacun d'aménager avec les filières locales ses espaces extérieurs._  
