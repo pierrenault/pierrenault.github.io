@@ -26,6 +26,7 @@ ___________________________
 **Castagnary, 1892**  
 
 ___________________________  
-Depuis 2016 : co-porteur du projet HopDurable.
+Depuis 2016 : Co-porteur du projet HopDurable.
+Territoire Pilote : Auvergne-Rhône-Alpes
 Start-Up d'innovation sociale, HopDurable vise à permettre à chacun d'amanéger avec les filières locales ses espaces extérieurs.
-**+ d'infos : https://www.hopdurable.fr/ **  
+**+ d'infos : [HopDurable.fr)](https://www.hopdurable.fr)
