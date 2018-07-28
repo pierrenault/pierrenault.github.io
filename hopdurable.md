@@ -1,3 +1,4 @@
 ---
 title: Hopdurable
+layout: page
 ---
