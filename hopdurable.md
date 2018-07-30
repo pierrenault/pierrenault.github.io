@@ -3,7 +3,8 @@ title: HopDurable
 layout: page
 ---
 
-![logo_noir_hd.png]({{site.baseurl}}/media/logo_noi_hd.png)
+
+![logo_Hop]({{site.baseurl}}/media/logo_noir_hd.png)
 
 Depuis 2016 : Co-porteur du projet **[HopDurable](https://www.hopdurable.fr)**  
 Territoire Pilote : [Auvergne-Rhône-Alpes](https://www.auvergnerhonealpes.fr/8-des-cartes.htm)  
