@@ -13,4 +13,6 @@ _Par une réponse de territoire originale avec l'ensemble des parties prenantes,
 Sélectionné et accompagné par [Alter'Incub](http://www.alterincub.coop/), incubateur d'innovation sociale // Membre du [MOUVES](http://mouves.org/) depuis 2018.  
 Recevoir la HopLetter : [ici](https://www.hopdurable.fr/#hopletter) // Suivre l'aventure Hop sur Facebook : [là](https://www.facebook.com/hopdurable/)
 
-Voir les démonstrateurs Hop : [ici](https://publi.hopdurable.fr/)
+Voir les démonstrateurs Hop : [ici](https://www.hopdurable.fr/voir-nos-demonstrateurs/)
+
+Retrouver notre intervention sur France Inter le 25 septembre 2018 : [ici] (https://www.franceinter.fr/emissions/carnets-de-campagne/carnets-de-campagne-25-septembre-2018)
